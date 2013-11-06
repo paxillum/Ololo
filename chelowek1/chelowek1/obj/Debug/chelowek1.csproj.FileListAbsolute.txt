@@ -1,0 +1,9 @@
+D:\лабы\дискретные структуры\chelowek1\chelowek1\obj\Debug\ResolveAssemblyReference.cache
+D:\лабы\дискретные структуры\chelowek1\chelowek1\obj\Debug\chelowek1.Form1.resources
+D:\лабы\дискретные структуры\chelowek1\chelowek1\obj\Debug\chelowek1.Form2.resources
+D:\лабы\дискретные структуры\chelowek1\chelowek1\obj\Debug\chelowek1.Properties.Resources.resources
+D:\лабы\дискретные структуры\chelowek1\chelowek1\obj\Debug\chelowek1.csproj.GenerateResource.Cache
+D:\лабы\дискретные структуры\chelowek1\chelowek1\bin\Debug\chelowek1.exe
+D:\лабы\дискретные структуры\chelowek1\chelowek1\bin\Debug\chelowek1.pdb
+D:\лабы\дискретные структуры\chelowek1\chelowek1\obj\Debug\chelowek1.exe
+D:\лабы\дискретные структуры\chelowek1\chelowek1\obj\Debug\chelowek1.pdb
